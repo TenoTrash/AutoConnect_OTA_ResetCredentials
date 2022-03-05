@@ -1,5 +1,5 @@
 /*
-   2021 - Marcelo Ferrarotti
+   2021 - Marce Ferra
    Base de firmware para ESP32 con las siguientes funciones:
     - AutoConnect de Hieromon https://hieromon.github.io/AutoConnect/
     - OTA - Mix de los ejemplos de Hieromon
